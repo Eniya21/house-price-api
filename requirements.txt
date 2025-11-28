@@ -1,7 +1,6 @@
 fastapi
-uvicorn[standard]
+uvicorn
 gradio
 joblib
 scikit-learn
-pandas
-numpy
+pydantic
